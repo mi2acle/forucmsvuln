@@ -1,3 +1,7 @@
+ForU CMS index.php Arbitrary Administrator Password Reset
+downlaod:https://gitee.com/sw1981/ForU-CMS
+version:dev Official version
+
 I have found the following controller in admin/index.php:
 ```php
 switch ($act) {
